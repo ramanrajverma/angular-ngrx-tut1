@@ -1,2 +1,9 @@
 https://www.youtube.com/watch?v=SiImpKkdjUo&list=PLfyWdpsiUiPC7bHmDDDM6gGgfo3mgMCAC&index=3
 test
+
+// git push --set-upstream origin topic-learn-tut
+
+ng add @ngrx/store@latest
+
+create folder and generate service too
+    PS I:\Angular\ARCHER\LEARN\NGRX\LearnNgrxTut\learnNgrcAppTut> ng g s shared/master
